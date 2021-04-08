@@ -168,4 +168,4 @@ client.on('message', message =>{
 
 
 
-client.login('NzkwMjYxMjA5OTQ5MDEyMDM4.X9-CGg.rw_5C7OYxHPgatfZ1-pJAxOJPb8');
+        client.login(process.env.TOKEN);
